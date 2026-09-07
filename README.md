@@ -15,43 +15,6 @@ Instead of writing the same long instructions again and again, you can use focus
 The goal is simple:
 
 > Give developers reusable skill files that turn vague AI output into sharper, more useful, more production-ready work.
-
-## What you will find here
-
-This repository will include a wide variety of developer-focused skills, such as:
-
-- **Copywriting Skills**  
-  Write landing pages, README files, product copy, onboarding text, CTAs, captions, and launch messaging.
-
-- **Anti-Slop Review Skills**  
-  Detect vague, generic, over-polished, or template-like output and turn it into something specific and useful.
-
-- **Frontend Taste Skills**  
-  Improve layout, hierarchy, spacing, typography, component design, and overall product feel.
-
-- **Code Review Skills**  
-  Review code for correctness, maintainability, security, readability, and architectural fit.
-
-- **Debugging Skills**  
-  Help agents trace bugs from symptoms to root cause instead of applying random fixes.
-
-- **Documentation Skills**  
-  Create implementation docs, architecture notes, sprint documents, API guides, setup guides, and handoff docs.
-
-- **Research Skills**  
-  Run structured research across codebases, APIs, competitors, documentation, and feature opportunities.
-
-- **Product Thinking Skills**  
-  Evaluate features from the user’s perspective, identify gaps, reduce friction, and improve workflows.
-
-- **Testing Skills**  
-  Generate realistic test cases, edge cases, QA checklists, regression plans, and local testing flows.
-
-- **DevOps & Deployment Skills**  
-  Diagnose deployment issues, environment problems, hosting choices, CI/CD gaps, and production risks.
-
-This repo is not limited to writing skills. It is meant to become a practical skill library for the full developer workflow.
-
 ## Who this is for
 
 This repository is for:
